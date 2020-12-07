@@ -7,7 +7,7 @@ When creating a pull request, always ensure that you remove the unused dependenc
 
 ## State of Code
 
-`PyWidget` is still a very fluidic project and I is actively working out of this repository. I will be periodically re-structuring/refactoring the code to make it easier to comprehend, navigate, build, test, and contribute to, so DO expect significant changes to code layout on a regular basis.
+`PyWidget` is still a very fluidic project and I am actively working out of this repository. I will be periodically re-structuring/refactoring the code to make it easier to comprehend, navigate, build, test, and contribute to, so DO expect significant changes to code layout on a regular basis.
 
 ## Code of Conduct
 
