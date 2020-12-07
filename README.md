@@ -1,6 +1,6 @@
 # `PyWidget`
 
-Python Desktop Widget framework using Tkinter framework
+Create amazing and functional desktop widgets in Python Tkinter
 
 ## What is `PyWidget`?
 
