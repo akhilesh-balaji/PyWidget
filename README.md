@@ -12,7 +12,7 @@ To use `PyWidget`, first decide whether you want to make a widget with a draggab
 
 Now, simply download the Python file inside, and modify it as required.
 
-There is one required dependency that needs to be installed for either of the options: PyInstaller, which can be installed with `pip install PyInstaller`.
+There is one required dependency that needs to be installed for either of the options: PyGetWindow, which can be installed with `pip install pygetwindow`.
 
 ## Known Bugs
 
