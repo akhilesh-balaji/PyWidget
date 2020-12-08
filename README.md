@@ -2,6 +2,8 @@
 
 Create amazing and functional desktop widgets in Python Tkinter
 
+![](https://github.com/akhilesh-balaji/PyWidget/blob/main/mockup.jpg?raw=true)
+
 ## What is `PyWidget`?
 
 Have you ever wanted to create a desktop widget, like the ones in Windows 7 and like Rainmeter widgets using Python Tkinter? Well, you're in luck. I had the same issue, and struggled to find a tool that would help me do this, but to no avail. So, I developed my own code to do this, and made it available to others for use.
